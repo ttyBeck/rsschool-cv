@@ -2,7 +2,7 @@
 ## Contact information
 * Phone: +37525-681-44-77
 * E-mail: ttyBeck@gmail.com
-* Github: [ttyBeck] (https://github.com/ttyBeck)
+* Github: https://github.com/ttyBeck
 ## Code Example
 ``` function sum(a, b) {
   return a + b;
