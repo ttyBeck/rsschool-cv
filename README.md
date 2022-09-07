@@ -1,1 +1,1 @@
-https://ttyBeck.github.io/rsschool-cv/cv
+https://ttyBeck.github.io/rsschool-cv/
